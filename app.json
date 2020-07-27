@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "0.03",
+    "slug": "mpq",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.mpq.losefor",
+      "versionCode": 1
+    },
+    
+    "description": "to do list app made by Muhammed Paqer .\n\nWhat is new\n=======================\n-Added sub note and lists \n-Added dark mode \n-Added Drawer \n-changed the design for best experience\n-fixed bugs with saving and deleting content  "
+  }
+}
